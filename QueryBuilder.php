@@ -69,7 +69,3 @@ class QueryBuilder
     }
 }
 
-class ConnectionException extends Exception
-{
-    
-}
